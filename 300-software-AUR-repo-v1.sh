@@ -45,14 +45,14 @@ echo "Installing category Graphics"
 
 echo "Installing category Internet"
 
-sh AUR/install-vivaldi-and-ffmeg-codecs-v*.sh
+#sh AUR/install-vivaldi-and-ffmeg-codecs-v*.sh
 
 
 echo "Installing category Multimedia"
 
-sh AUR/install-gradio-v*.sh
-sh AUR/install-peek-v*.sh
-sh AUR/install-radiotray-v*.sh
+# sh AUR/install-gradio-v*.sh
+# sh AUR/install-peek-v*.sh
+# sh AUR/install-radiotray-v*.sh
 
 
 echo "Installing category Office"
