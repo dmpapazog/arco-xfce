@@ -21,7 +21,8 @@ echo "################################################################"
 echo
 
 sudo pacman -S arcolinux-applications-git --noconfirm --needed
-sudo pacman -S arcolinux-arc-themes-git --noconfirm --needed
+#sudo pacman -S arcolinux-arc-themes-git --noconfirm --needed
+sudo pacman -S arcolinux-arc-themes-nico-git --noconfirm --needed
 #sudo pacman -S arcolinux-awesome-git --noconfirm --needed
 sudo pacman -S arcolinux-bin-git --noconfirm --needed
 #sudo pacman -S arcolinux-bspwm-git --noconfirm --needed
@@ -65,6 +66,7 @@ sudo pacman -S arcolinux-plank-themes-git --noconfirm --needed
 #sudo pacman -S arcolinux-polybar-git --noconfirm --needed
 sudo pacman -S arcolinux-qt5-git --noconfirm --needed
 #sudo pacman -S arcolinux-qtile-git --noconfirm --needed
+#sudo pacman -S arcolinux-qt5-plasma-git --noconfirm --needed
 sudo pacman -S arcolinux-rofi-git --noconfirm --needed
 sudo pacman -S arcolinux-rofi-themes-git --noconfirm --needed
 sudo pacman -S arcolinux-root-git --noconfirm --needed
@@ -78,7 +80,6 @@ sudo pacman -S arcolinux-system-config-git --noconfirm --needed
 sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
 sudo pacman -S arcolinux-xfce4-panel-profiles-git --noconfirm --needed
 sudo pacman -S arcolinux-xfce-thunar-git --noconfirm --needed
-#sudo pacman -S arcolinux-xmonad-git --noconfirm --needed
 #sudo pacman -S arcolinux-xmonad-polybar-git --noconfirm --needed
 #sudo pacman -S arcolinux-xmonad-xmobar-git --noconfirm --needed
 
